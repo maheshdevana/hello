@@ -19,7 +19,7 @@ while k>=0 and len(t)>0:
 
     mindex=t.index(max(t))
 
-    if k>=p[mindex]:
+    if k>=h[mindex]:
 
         c=c+s[mindex]
 
